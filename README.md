@@ -1,6 +1,6 @@
 ## about
 
-I developed this web scraper while working for VRPreservation.org, a local non-profit. VRPresevation was founded out of a need for people to explore historical sites, despite being unable to travel during the covid-19 pandemic. It provides virtual reality tours of historical sites in Louisiana, and gives local organizations/businesses the tools to create their own VR tours.
+I developed this web scraper while working for VRPreservation.org, a local non-profit. VRPresevation was founded out of a need for people to explore historical sites despite being unable to travel during the covid-19 pandemic. It provides virtual reality tours of historical sites in Louisiana, and gives local organizations/businesses the tools to create their own VR tours.
 
 The site wanted to expand its services to provide tours outside of Louisiana. We found a free online resource that provided virtual tours from around the globe. I built this web scraper to parse this resource for links to the VR tours, so that we could link to them on our site. It also needed to find the name of the tour, and the location's coordinates (so that we could provide a google maps widget showing the site of each tour).
 
